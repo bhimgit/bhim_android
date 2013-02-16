@@ -18,6 +18,7 @@ public class MainActivity extends Activity {
 		i.setData(Uri.parse(url));
 		startActivity(i); 
 		
+		
 		/*try {
 			abc();
 		} catch (Exception e1) {
